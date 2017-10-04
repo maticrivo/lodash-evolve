@@ -1,0 +1,26 @@
+{
+  "name": "lodash-evolve",
+  "version": "0.0.1",
+  "description": "Create a new object by recursively evolving a copy of `object`",
+  "main": "dist/evolve.js",
+  "scripts": {
+  	"build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticrivo/lodash-evolve.git"
+  },
+  "keywords": [
+    "lodash",
+    "evolve",
+    "recursively",
+    "transform"
+  ],
+  "author": "Matias Crivolotti <matioav@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maticrivo/lodash-evolve/issues"
+  },
+  "homepage": "https://github.com/maticrivo/lodash-evolve#readme"
+}
